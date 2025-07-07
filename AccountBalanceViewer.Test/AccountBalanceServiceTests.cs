@@ -5,7 +5,6 @@ using AccountBalanceViewer.Application.Services.Contracts;
 using AccountBalanceViewer.Domain.Entities;
 using AutoMapper;
 using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.Http.Internal;
 using Microsoft.Extensions.Logging;
 using Moq;
 using OfficeOpenXml;

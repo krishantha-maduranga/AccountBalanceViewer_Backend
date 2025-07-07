@@ -1,0 +1,77 @@
+# Visual Studio
+.vs/
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+build/
+bld/
+[Bb]in/
+[Oo]bj/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# Visual Studio Code
+.vscode/
+
+# Rider
+.idea/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# DotCover
+*.dotCover
+
+# Logs
+*.log
+logs/
+
+# Azure Pipelines
+.vsts/
+
+# Npm packages
+node_modules/
+
+# Environment files
+.env
+.env.*
+
+# Others
+*.db
+*.sqlite
+*.sqlite3
+
+# NuGet
+*.nupkg
+*.snupkg
+.nuget/
+packages/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# ReSharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+
+# Test Results
+[Tt]est[Rr]esult*/
+*.trx
+*.coverage
+*.coveragexml
+
+# Microsoft Azure Web App publish settings
+*.PublishSettings
+
+# Temporary files
+~$*
